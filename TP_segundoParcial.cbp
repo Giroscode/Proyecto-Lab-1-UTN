@@ -32,7 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Cuenta.h" />
+		<Unit filename="Reportes.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="movimiento.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
